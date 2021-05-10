@@ -1,0 +1,129 @@
+.w{
+    width: 1200px;
+    margin: 0 auto;
+}
+.style_red{
+    color: #c81523;
+}
+header {
+    height: 84px;
+    border-bottom: 2px solid #c81523;
+}
+.logo{
+    padding-top: 20px;
+}
+.registerarea{
+    height: 520px;
+    margin-top: 20px;
+    border: 1px solid #dfdfdf;
+}
+.zhuce_hd{
+    height: 40px;
+    background-color: #ececec;
+    border-bottom: 1px solid #dfdfdf;
+    /* line-height: 40px; */
+}
+.zhuce_hd h3{
+    float: left;
+    font-size: 18px;
+    color: #333333;
+    margin: 8px;
+}
+.zhuce_hd p{
+    float: right;
+    font-size: 14px;
+    margin: 8px;
+}
+.mod_copyright{
+    height: 50px;
+    /* font-size: 10px; */
+    margin-left: 113px;
+}
+.mod_copyright a{
+    line-height: 50px;
+    border-right: 1px solid #666;
+    margin: 15px 0px;
+    padding: 0 15px;
+}
+.mod_copyright a:last-child{
+    border: 0;
+}
+.mod_conection{
+    text-align: center;
+}
+.reg_form{
+
+    width: 600px;
+    /* background-color: pink; */
+    margin: 50px auto 0;
+}
+.reg_form ul li{
+    padding-bottom: 20px;
+}
+.reg_form ul li label{
+    display:inline-block;
+    width: 88px;
+    text-align: right;
+}
+.reg_form ul li input{
+    width: 242px;
+    height: 37px;
+    border: 1px solid #ccc;
+
+}
+.error{
+    color: #c81523;
+}
+.error_icon,.success_icon{
+    display: inline-block;
+    vertical-align: middle;
+    width: 20px;
+    height: 20px;
+    background: url(../images/矩形8.png) no-repeat;
+    margin-top: -2px;
+
+}
+
+.success{
+    color: green;
+}
+.safe{
+    padding-left: 170px;
+}
+.safe em{
+    padding: 0 12px;
+    color: #fff;
+    /* background-color: pink; */
+}
+.ruo{
+    background-color: #de1111;
+}
+.zhong{
+    background-color: #40b83f;
+}
+.qiang{
+    background-color: #f79100;
+}
+.agree{
+    padding-left: 95px;
+}
+.agree a{
+    color: #1ba1e6;
+}
+#pasd{
+    width: 15px ; 
+    height: 15px;
+    vertical-align: middle;
+}
+#btn{
+    /* display: block; */
+    margin: 30px 0 0 70px;
+    width: 200px;
+    height: 34px;
+    font-size: 14px;
+    line-height: 34px;
+    text-align: center;
+    color: white;
+    background-color: #c81523;
+    border-radius: 0;
+}
